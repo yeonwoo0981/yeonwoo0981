@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- 헤더 배너 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:915eff&height=200&section=header&text=Welcome%20to%20ByulDaram's%20profile!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn)
 
-<!--
-**yeonwoo0981/yeonwoo0981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 타이핑 효과 -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- 본문 컨테이너 -->
+<div align="center" style="background-color:#1e1e2f; padding:20px; border-radius:10px; font-family:'Malgun Gothic', sans-serif;">
+
+---
+
+<span style="color:#ffffff; font-size:22px;"><b> 백허브</b></span>
+
+<br><br>
+
+<!-- Solved.ac 프로필 -->
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=ggm_byuldaram)](https://solved.ac/profile/ggm_byuldaram)
+
+<!-- GitHub 통계 -->
+[![yeonwoo0981's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo0981&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/yeonwoo0981)
+
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yeonwoo0981&theme=tokyonight)](https://github.com/yeonwoo0981)
+
+---
+
+</div>
