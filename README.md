@@ -21,7 +21,8 @@
 [![yeonwoo0981's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo0981&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/yeonwoo0981)
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yeonwoo0981&theme=tokyonight)](https://github.com/yeonwoo0981)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeonwoo0981&theme=tokyonight)](https://github.com/yeonwoo0981)
+
 
 ---
 
