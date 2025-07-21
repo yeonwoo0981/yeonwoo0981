@@ -3,10 +3,10 @@ body {
   
 
 </style>
-<!-- 헤더 배너 (어두운 배경 + 보라색 웨이브) -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:915eff&height=200&section=header&text=%20Welcome to ByulDaram's profile!%20&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
 
-<!-- 타이핑 효과 (Hello, GGM!) -->
+
 <p align="center" style="font-family:'Malgun Gothic', sans-serif;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+GGM!&center=true&size=22&color=ffffff&background=1e1e2f00">
 </p>
