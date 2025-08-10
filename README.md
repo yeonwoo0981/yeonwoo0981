@@ -29,4 +29,4 @@
 
 
 </div>
-a game maker that benefits the world
+a game maker that beneficial the world
