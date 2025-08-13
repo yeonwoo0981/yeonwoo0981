@@ -5,7 +5,7 @@
 
 <!-- 커스텀 폰트로 타이핑 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello,+GGM!;Unity+Developer;C%23+Lover;Game+Maker+Benefiting+the+World" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=반갑다,+세상아!;Unity+Developer;C%23+Lover;Game+Maker+Benefiting+the+World" />
 </p>
 
 <!-- 메인 컨테이너 -->
