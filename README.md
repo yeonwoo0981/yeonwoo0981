@@ -12,11 +12,13 @@
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&size=28&color=FF4D4D&center=true&vCenter=true&width=250&lines=📚+백허브" />
 
-[![백준 스트릭](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ggm_byuldaram)](https://solved.ac/ggm_byuldaram/)
-[![백준 마잔디](http://mazandi.herokuapp.com/api?handle=ggm_byuldaram&theme=warm)](https://solved.ac/ggm_byuldaram/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggm_byuldaram)](https://solved.ac/ggm_byuldaram)[![백준 잔디](http://mazandi.herokuapp.com/api?handle=ggm_byuldaram&theme=warm)](https://solved.ac/ggm_byuldaram/)
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeonwoo0981&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/yeonwoo0981)  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yeonwoo0981&theme=tokyonight)](https://github.com/yeonwoo0981)
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=yeonwoo0981)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yeonwoo0981&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
