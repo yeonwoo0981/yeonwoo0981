@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Phone-010--3723--5028-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-
+힘들지만 저의 한계까지 죽을 힘을 다해 노력해보겠습니다.
 ---
 
 a game maker that beneficial the world
