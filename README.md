@@ -1,6 +1,6 @@
 <!-- 상단 웨이브 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:915eff&height=200&section=header&text=Welcome%20to%20ByulDaram's%20Profile!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:915eff&height=200&section=header&text=Welcome%20to%20Yeonwoo's%20Profile!&fontSize=40&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
