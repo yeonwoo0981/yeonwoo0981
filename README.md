@@ -26,15 +26,5 @@
 ---
 
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&size=28&color=FFFFFF&center=true&vCenter=true&width=150&lines=📬+연락처" />
-<p>
-  <a href="mailto:0981syw@naver.com">
-    <img src="https://img.shields.io/badge/Email-0981syw@naver.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="tel:01037235028">
-    <img src="https://img.shields.io/badge/Phone-010--3723--5028-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
 
 </div>
